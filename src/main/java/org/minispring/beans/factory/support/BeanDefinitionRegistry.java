@@ -5,8 +5,7 @@ import org.minispring.beans.factory.config.BeanDefinition;
 /**
  * BeanDefinition注册表接口
  *
- * @author derekyi
- * @date 2020/11/22
+
  */
 public interface BeanDefinitionRegistry {
 

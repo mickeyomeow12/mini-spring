@@ -5,8 +5,7 @@ import org.minispring.beans.factory.config.BeanDefinition;
 import org.minispring.beans.factory.support.DefaultListableBeanFactory;
 
 /**
- * @author derekyi
- * @date 2020/11/24
+
  */
 public class BeanDefinitionAndBeanDefinitionRegistryTest {
 
